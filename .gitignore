@@ -1,0 +1,12 @@
+# Built binaries
+tg-scan
+tg-listen
+
+# Generated reports / lists
+scan_report.txt
+open_ips.txt
+
+# Editor / OS junk
+*.o
+*.swp
+.DS_Store
